@@ -59,5 +59,8 @@ library("cowplot")
 library("knitr")
 library("zip")
 
+# Not run for CRAN checks because of time it takes to run
+if (interactive()) {
 results <- compare_similarities_same_image(rv)
+}
 }
