@@ -1,0 +1,7 @@
+"absolute_error","absolute_error_percent","perceptual_hash","     fuzz"
+"Min.   :     0  ","Min.   :0.0000  ","Min.   :  0.00  ","Min.   :0.0000  "
+"1st Qu.:     0  ","1st Qu.:0.0000  ","1st Qu.:  0.00  ","1st Qu.:0.0000  "
+"Median :910107  ","Median :0.9972  ","Median : 24.72  ","Median :0.1473  "
+"Mean   :575145  ","Mean   :0.5991  ","Mean   : 38.83  ","Mean   :0.1364  "
+"3rd Qu.:972690  ","3rd Qu.:0.9993  ","3rd Qu.: 62.76  ","3rd Qu.:0.2467  "
+"Max.   :995846  ","Max.   :0.9999  ","Max.   :160.57  ","Max.   :0.3206  "

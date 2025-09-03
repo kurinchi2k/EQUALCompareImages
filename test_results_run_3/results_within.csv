@@ -1,0 +1,721 @@
+"image","image_1","image_2","change","pixels_compared","absolute_error","absolute_error_percent","perceptual_hash","fuzz"
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"without modification",973247,0,0,0,0
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"90 degrees rotation",737881,736065,0.997538898548682,,0.30075265031632
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"180 degrees rotation",973247,972488,0.999220136306611,,0.304309113421852
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"270 degrees rotation",737881,736644,0.998323577921101,,0.283558544989169
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"horizontal mirror image",973247,965394,0.991931133617674,,0.234956217397246
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"horizontal mirror image; 90 degrees rotation",737881,732368,0.992528605561059,,0.271874668944477
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"horizontal mirror image; 180 degrees rotation",973247,963430,0.989913146405794,,0.291732666132295
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"horizontal mirror image; 270 degrees rotation",737881,737344,0.999272240374803,,0.300433188330878
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"vertical mirror image",973247,963430,0.989913146405794,,0.291732666132295
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"vertical mirror image; 90 degrees rotation",737881,737344,0.999272240374803,,0.300433188330878
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"vertical mirror image; 180 degrees rotation",973247,965394,0.991931133617674,,0.234956217397246
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"vertical mirror image; 270 degrees rotation",737881,732368,0.992528605561059,,0.271874668944477
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5",242814,242810,0.999983526485293,,0.2893909420924
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5; 90 degrees rotation",242814,242814,1,,0.30656053923098
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5; 180 degrees rotation",242814,242814,1,,0.2798606505218
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5; 270 degrees rotation",242814,242813,0.999995881621323,,0.279368649614237
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5; horizontal mirror image",242814,242809,0.999979408106617,,0.289258732157278
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5 horizontal mirror image; 90 degrees rotation",242814,242812,0.999991763242647,,0.302662422595495
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5 horizontal mirror image; 180 degrees rotation",242814,242811,0.99998764486397,,0.28593361292013
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5 horizontal mirror image; 270 degrees rotation",242814,242814,1,,0.285205556243596
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5; vertical mirror image",242814,242811,0.99998764486397,,0.28593361292013
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5; vertical mirror image; 90 degrees rotation",242814,242814,1,,0.285205556243596
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5; vertical mirror image; 180 degrees rotation",242814,242809,0.999979408106617,,0.289258732157278
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,1,"resize 0.5; vertical mirror image; 270 degrees rotation",242814,242812,0.999991763242647,,0.302662422595495
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"without modification",973247,968570,0.995194436766823,29.2760785886322,0.27968041157055
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"90 degrees rotation",737881,736566,0.998217869819117,,0.298068842258261
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"180 degrees rotation",973247,972979,0.999724633109581,,0.32323548103914
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"270 degrees rotation",737881,737775,0.999856345399868,,0.327277667575358
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"horizontal mirror image",973247,968064,0.994674527637897,,0.271482458352608
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"horizontal mirror image; 90 degrees rotation",737881,736150,0.997654093275203,,0.30485207587283
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"horizontal mirror image; 180 degrees rotation",973247,972933,0.999677368643315,,0.322529847102595
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"horizontal mirror image; 270 degrees rotation",737881,737793,0.999880739577249,,0.325082589418411
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"vertical mirror image",973247,972933,0.999677368643315,,0.322529847102595
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"vertical mirror image; 90 degrees rotation",737881,737793,0.999880739577249,,0.325082589418411
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"vertical mirror image; 180 degrees rotation",973247,968064,0.994674527637897,,0.271482458352608
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"vertical mirror image; 270 degrees rotation",737881,736150,0.997654093275203,,0.30485207587283
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5",242814,242810,0.999983526485293,,0.303190126075518
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5; 90 degrees rotation",242814,242814,1,,0.313716423457012
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5; 180 degrees rotation",242814,242814,1,,0.313539546872573
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5; 270 degrees rotation",242814,242814,1,,0.308854428389435
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5; horizontal mirror image",242814,242812,0.999991763242647,,0.32424396811951
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5 horizontal mirror image; 90 degrees rotation",242814,242813,0.999995881621323,,0.329343917808872
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5 horizontal mirror image; 180 degrees rotation",242814,242814,1,,0.293837588225644
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5 horizontal mirror image; 270 degrees rotation",242814,242814,1,,0.317054806931526
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5; vertical mirror image",242814,242814,1,,0.293837588225644
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5; vertical mirror image; 90 degrees rotation",242814,242814,1,,0.317054806931526
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5; vertical mirror image; 180 degrees rotation",242814,242812,0.999991763242647,,0.32424396811951
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,2,"resize 0.5; vertical mirror image; 270 degrees rotation",242814,242813,0.999995881621323,,0.329343917808872
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"without modification",973247,971944,0.998661182618595,26.1282255126675,0.280593372902574
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"90 degrees rotation",737881,737441,0.999403697886245,,0.292581926739644
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"180 degrees rotation",973247,972637,0.999373232077777,,0.298667990355965
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"270 degrees rotation",737881,737287,0.99919499214643,,0.284027373698645
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"horizontal mirror image",973247,972839,0.999580784733988,,0.293085175515934
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"horizontal mirror image; 90 degrees rotation",737881,737404,0.999353554299406,,0.306885566384914
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"horizontal mirror image; 180 degrees rotation",973247,970644,0.997325447702382,,0.281947966808098
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"horizontal mirror image; 270 degrees rotation",737881,737618,0.999643573963823,,0.289008634851297
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"vertical mirror image",973247,970644,0.997325447702382,,0.281947966808098
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"vertical mirror image; 90 degrees rotation",737881,737618,0.999643573963823,,0.289008634851297
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"vertical mirror image; 180 degrees rotation",973247,972839,0.999580784733988,,0.293085175515934
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"vertical mirror image; 270 degrees rotation",737881,737404,0.999353554299406,,0.306885566384914
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5",242814,242813,0.999995881621323,,0.28539520689586
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5; 90 degrees rotation",242814,242812,0.999991763242647,,0.279696325670856
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5; 180 degrees rotation",242814,242814,1,,0.263341254706414
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5; 270 degrees rotation",242814,242814,1,,0.279360081892396
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5; horizontal mirror image",242814,242814,1,,0.283477699186112
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5 horizontal mirror image; 90 degrees rotation",242814,242814,1,,0.292711302595538
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5 horizontal mirror image; 180 degrees rotation",242814,242814,1,,0.256960979697342
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5 horizontal mirror image; 270 degrees rotation",242814,242814,1,,0.276697173276585
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5; vertical mirror image",242814,242814,1,,0.256960979697342
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5; vertical mirror image; 90 degrees rotation",242814,242814,1,,0.276697173276585
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5; vertical mirror image; 180 degrees rotation",242814,242814,1,,0.283477699186112
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,3,"resize 0.5; vertical mirror image; 270 degrees rotation",242814,242814,1,,0.292711302595538
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"without modification",973247,972626,0.999361929705409,25.8582165919063,0.286394785214014
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"90 degrees rotation",737881,737621,0.999647639660054,,0.298592583488704
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"180 degrees rotation",973247,972713,0.999451321195955,,0.309844347067474
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"270 degrees rotation",737881,737588,0.999602917001522,,0.30860143401469
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"horizontal mirror image",973247,972426,0.999156432025991,,0.294846623421817
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"horizontal mirror image; 90 degrees rotation",737881,737482,0.99945926240139,,0.296080216618377
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"horizontal mirror image; 180 degrees rotation",973247,972798,0.999538657709708,,0.307691587179799
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"horizontal mirror image; 270 degrees rotation",737881,737657,0.999696428014815,,0.295069649677718
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"vertical mirror image",973247,972798,0.999538657709708,,0.307691587179799
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"vertical mirror image; 90 degrees rotation",737881,737657,0.999696428014815,,0.295069649677718
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"vertical mirror image; 180 degrees rotation",973247,972426,0.999156432025991,,0.294846623421817
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"vertical mirror image; 270 degrees rotation",737881,737482,0.99945926240139,,0.296080216618377
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5",242814,242814,1,,0.276075419379352
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5; 90 degrees rotation",242814,242814,1,,0.297264684400455
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5; 180 degrees rotation",242814,242814,1,,0.303843757977319
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5; 270 degrees rotation",242814,242814,1,,0.299589832662382
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5; horizontal mirror image",242814,242814,1,,0.294971474245663
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",242814,242814,1,,0.294084769442499
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",242814,242814,1,,0.295403576811964
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",242814,242814,1,,0.29624122474595
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5; vertical mirror image",242814,242814,1,,0.295403576811964
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5; vertical mirror image; 90 degrees rotation",242814,242814,1,,0.29624122474595
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5; vertical mirror image; 180 degrees rotation",242814,242814,1,,0.294971474245663
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",1,4,"resize 0.5; vertical mirror image; 270 degrees rotation",242814,242814,1,,0.294084769442499
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"without modification",973247,0,0,0,0
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"90 degrees rotation",737881,737549,0.99955006295053,,0.313503194523895
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"180 degrees rotation",973247,973228,0.999980477720455,,0.335843436448281
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"270 degrees rotation",737881,737714,0.999773676243188,,0.326253134896518
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"horizontal mirror image",973247,966238,0.992798333824815,,0.266451104143037
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"horizontal mirror image; 90 degrees rotation",737881,736056,0.997526701459992,,0.305547997225826
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"horizontal mirror image; 180 degrees rotation",973247,972194,0.998918054717867,,0.32361378481551
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"horizontal mirror image; 270 degrees rotation",737881,737711,0.999769610546958,,0.326390975924967
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"vertical mirror image",973247,972194,0.998918054717867,,0.32361378481551
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"vertical mirror image; 90 degrees rotation",737881,737711,0.999769610546958,,0.326390975924967
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"vertical mirror image; 180 degrees rotation",973247,966238,0.992798333824815,,0.266451104143037
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"vertical mirror image; 270 degrees rotation",737881,736056,0.997526701459992,,0.305547997225826
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5",242814,242813,0.999995881621323,,0.301010039875968
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5; 90 degrees rotation",242814,242813,0.999995881621323,,0.308158555403493
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5; 180 degrees rotation",242814,242814,1,,0.304168401835085
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5; 270 degrees rotation",242814,242814,1,,0.321721870636678
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5; horizontal mirror image",242814,242811,0.99998764486397,,0.306451738029746
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5 horizontal mirror image; 90 degrees rotation",242814,242814,1,,0.317477078661839
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5 horizontal mirror image; 180 degrees rotation",242814,242814,1,,0.301546751244042
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5 horizontal mirror image; 270 degrees rotation",242814,242814,1,,0.314746120571142
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5; vertical mirror image",242814,242814,1,,0.301546751244042
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5; vertical mirror image; 90 degrees rotation",242814,242814,1,,0.314746120571142
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5; vertical mirror image; 180 degrees rotation",242814,242811,0.99998764486397,,0.306451738029746
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,2,"resize 0.5; vertical mirror image; 270 degrees rotation",242814,242814,1,,0.317477078661839
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"without modification",973247,973154,0.999904443579071,23.5892940992474,0.313561659279467
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"90 degrees rotation",737881,737821,0.999918686075397,,0.315321832122747
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"180 degrees rotation",973247,972971,0.999716413202404,,0.324058372154055
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"270 degrees rotation",737881,737347,0.999276306071033,,0.292635785444734
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"horizontal mirror image",973247,973049,0.999796557297377,,0.318512519120889
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"horizontal mirror image; 90 degrees rotation",737881,737246,0.999139427631285,,0.303523213951926
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"horizontal mirror image; 180 degrees rotation",973247,973177,0.999928075812204,,0.329873491953961
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"horizontal mirror image; 270 degrees rotation",737881,737840,0.999944435484855,,0.309427594471503
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"vertical mirror image",973247,973177,0.999928075812204,,0.329873491953961
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"vertical mirror image; 90 degrees rotation",737881,737840,0.999944435484855,,0.309427594471503
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"vertical mirror image; 180 degrees rotation",973247,973049,0.999796557297377,,0.318512519120889
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"vertical mirror image; 270 degrees rotation",737881,737246,0.999139427631285,,0.303523213951926
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5",242814,242814,1,,0.295327294860503
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5; 90 degrees rotation",242814,242814,1,,0.267943670658895
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5; 180 degrees rotation",242814,242814,1,,0.288003814935879
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5; 270 degrees rotation",242814,242814,1,,0.285893525772906
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5; horizontal mirror image",242814,242814,1,,0.299757152190926
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5 horizontal mirror image; 90 degrees rotation",242814,242814,1,,0.28379366064856
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5 horizontal mirror image; 180 degrees rotation",242814,242814,1,,0.290854119424203
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5 horizontal mirror image; 270 degrees rotation",242814,242814,1,,0.271379248538776
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5; vertical mirror image",242814,242814,1,,0.290854119424203
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5; vertical mirror image; 90 degrees rotation",242814,242814,1,,0.271379248538776
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5; vertical mirror image; 180 degrees rotation",242814,242814,1,,0.299757152190926
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,3,"resize 0.5; vertical mirror image; 270 degrees rotation",242814,242814,1,,0.28379366064856
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"without modification",973247,972711,0.999449266219161,47.3960183343628,0.320625674974783
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"90 degrees rotation",737881,737663,0.999704559407276,,0.309799319463664
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"180 degrees rotation",973247,973057,0.999804777204553,,0.337529230525328
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"270 degrees rotation",737881,737523,0.999514826916535,,0.314783057076009
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"horizontal mirror image",973247,972865,0.999607499432313,,0.327212357124908
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"horizontal mirror image; 90 degrees rotation",737881,737642,0.999676099533665,,0.312269311020474
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"horizontal mirror image; 180 degrees rotation",973247,972797,0.999537630221311,,0.319717603976287
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"horizontal mirror image; 270 degrees rotation",737881,737585,0.999598851305292,,0.29982761905323
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"vertical mirror image",973247,972797,0.999537630221311,,0.319717603976287
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"vertical mirror image; 90 degrees rotation",737881,737585,0.999598851305292,,0.29982761905323
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"vertical mirror image; 180 degrees rotation",973247,972865,0.999607499432313,,0.327212357124908
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"vertical mirror image; 270 degrees rotation",737881,737642,0.999676099533665,,0.312269311020474
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5",242814,242814,1,,0.322093891950162
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5; 90 degrees rotation",242814,242814,1,,0.314970707546915
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5; 180 degrees rotation",242814,242814,1,,0.323620195637835
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5; 270 degrees rotation",242814,242814,1,,0.306846150897461
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5; horizontal mirror image",242814,242814,1,,0.320594909417703
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",242814,242814,1,,0.311852440963
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",242814,242814,1,,0.316270628317074
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",242814,242814,1,,0.308570690341664
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5; vertical mirror image",242814,242814,1,,0.316270628317074
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5; vertical mirror image; 90 degrees rotation",242814,242814,1,,0.308570690341664
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5; vertical mirror image; 180 degrees rotation",242814,242814,1,,0.320594909417703
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",2,4,"resize 0.5; vertical mirror image; 270 degrees rotation",242814,242814,1,,0.311852440963
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"without modification",973247,0,0,0,0
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"90 degrees rotation",737881,736978,0.998776225434725,,0.271684803057882
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"180 degrees rotation",973247,972800,0.999540712686502,,0.284380621521023
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"270 degrees rotation",737881,737182,0.999052692778375,,0.304486155379148
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"horizontal mirror image",973247,968292,0.994908794992433,,0.258753298000865
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"horizontal mirror image; 90 degrees rotation",737881,735752,0.99711471090867,,0.27778752782358
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"horizontal mirror image; 180 degrees rotation",973247,964506,0.99101872392106,,0.235676770585078
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"horizontal mirror image; 270 degrees rotation",737881,737228,0.999115033453904,,0.281468117286326
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"vertical mirror image",973247,964506,0.99101872392106,,0.235676770585078
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"vertical mirror image; 90 degrees rotation",737881,737228,0.999115033453904,,0.281468117286326
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"vertical mirror image; 180 degrees rotation",973247,968292,0.994908794992433,,0.258753298000865
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"vertical mirror image; 270 degrees rotation",737881,735752,0.99711471090867,,0.27778752782358
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5",242814,242809,0.999979408106617,,0.277822098988994
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5; 90 degrees rotation",242814,242814,1,,0.284993315504986
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5; 180 degrees rotation",242814,242814,1,,0.27523629926018
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5; 270 degrees rotation",242814,242813,0.999995881621323,,0.266644571311766
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5; horizontal mirror image",242814,242814,1,,0.273812330261826
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5 horizontal mirror image; 90 degrees rotation",242814,242813,0.999995881621323,,0.27938074996846
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5 horizontal mirror image; 180 degrees rotation",242814,242808,0.99997528972794,,0.284051805512205
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5 horizontal mirror image; 270 degrees rotation",242814,242813,0.999995881621323,,0.266853819467033
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5; vertical mirror image",242814,242808,0.99997528972794,,0.284051805512205
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5; vertical mirror image; 90 degrees rotation",242814,242813,0.999995881621323,,0.266853819467033
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5; vertical mirror image; 180 degrees rotation",242814,242814,1,,0.273812330261826
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,3,"resize 0.5; vertical mirror image; 270 degrees rotation",242814,242813,0.999995881621323,,0.27938074996846
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"without modification",973247,972302,0.999029023464753,14.0001031280144,0.288826814913413
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"90 degrees rotation",737881,737612,0.999635442571363,,0.301003734629403
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"180 degrees rotation",973247,971704,0.998414585403294,,0.291600228587615
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"270 degrees rotation",737881,737134,0.998987641638692,,0.2756275997053
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"horizontal mirror image",973247,971908,0.9986241930363,,0.28092789186544
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"horizontal mirror image; 90 degrees rotation",737881,737625,0.99965306058836,,0.299871476544569
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"horizontal mirror image; 180 degrees rotation",973247,971828,0.998541993964533,,0.27027765567978
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"horizontal mirror image; 270 degrees rotation",737881,737198,0.999074376491602,,0.290476688888681
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"vertical mirror image",973247,971828,0.998541993964533,,0.27027765567978
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"vertical mirror image; 90 degrees rotation",737881,737198,0.999074376491602,,0.290476688888681
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"vertical mirror image; 180 degrees rotation",973247,971908,0.9986241930363,,0.28092789186544
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"vertical mirror image; 270 degrees rotation",737881,737625,0.99965306058836,,0.299871476544569
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5",242814,242814,1,,0.284224274030215
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5; 90 degrees rotation",242814,242814,1,,0.289850209214769
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5; 180 degrees rotation",242814,242814,1,,0.276879475208868
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5; 270 degrees rotation",242814,242814,1,,0.291259363030103
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5; horizontal mirror image",242814,242814,1,,0.273460474838417
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",242814,242814,1,,0.290948780427263
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",242814,242814,1,,0.282758748697896
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",242814,242814,1,,0.294226196582458
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5; vertical mirror image",242814,242814,1,,0.282758748697896
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5; vertical mirror image; 90 degrees rotation",242814,242814,1,,0.294226196582458
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5; vertical mirror image; 180 degrees rotation",242814,242814,1,,0.273460474838417
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",3,4,"resize 0.5; vertical mirror image; 270 degrees rotation",242814,242814,1,,0.290948780427263
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"without modification",973247,0,0,0,0
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"90 degrees rotation",737881,736956,0.998746410329037,,0.305568830538891
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"180 degrees rotation",973247,971646,0.998354991076263,,0.29106050899233
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"270 degrees rotation",737881,736911,0.998685424885585,,0.289547081754161
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"horizontal mirror image",973247,969274,0.995917788598372,,0.256284537203392
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"horizontal mirror image; 90 degrees rotation",737881,735768,0.997136394621897,,0.300989099652345
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"horizontal mirror image; 180 degrees rotation",973247,970526,0.997204204071526,,0.284698818449915
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"horizontal mirror image; 270 degrees rotation",737881,736559,0.99820838319458,,0.271400308000867
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"vertical mirror image",973247,970526,0.997204204071526,,0.284698818449915
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"vertical mirror image; 90 degrees rotation",737881,736559,0.99820838319458,,0.271400308000867
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"vertical mirror image; 180 degrees rotation",973247,969274,0.995917788598372,,0.256284537203392
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"vertical mirror image; 270 degrees rotation",737881,735768,0.997136394621897,,0.300989099652345
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5",242814,242814,1,,0.290643919287098
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5; 90 degrees rotation",242814,242814,1,,0.282649238984384
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5; 180 degrees rotation",242814,242814,1,,0.282170183849445
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5; 270 degrees rotation",242814,242814,1,,0.273146156695933
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5; horizontal mirror image",242814,242814,1,,0.288202917726088
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",242814,242814,1,,0.269677869275729
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",242814,242813,0.999995881621323,,0.258612244013476
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",242814,242812,0.999991763242647,,0.274271351448132
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5; vertical mirror image",242814,242813,0.999995881621323,,0.258612244013476
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5; vertical mirror image; 90 degrees rotation",242814,242812,0.999991763242647,,0.274271351448132
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5; vertical mirror image; 180 degrees rotation",242814,242814,1,,0.288202917726088
+"Dianthus_with_Periwinkle_Border__folio_21__verso___from_Florilegium__A_Book_of_F.jpg",4,4,"resize 0.5; vertical mirror image; 270 degrees rotation",242814,242814,1,,0.269677869275729
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"without modification",910932,0,0,0,0
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"90 degrees rotation",646416,645330,0.998319967327541,,0.210332724441747
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"180 degrees rotation",910932,910482,0.999506000447893,,0.265287763322203
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"270 degrees rotation",646416,643702,0.995801465310265,,0.238828480674662
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"horizontal mirror image",910932,907094,0.995786732708918,,0.214995475070352
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"horizontal mirror image; 90 degrees rotation",646416,639738,0.98966919135665,,0.177532741400166
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"horizontal mirror image; 180 degrees rotation",910932,904538,0.99298081525295,,0.229967212022666
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"horizontal mirror image; 270 degrees rotation",646416,645639,0.998797987673572,,0.261162368445454
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"vertical mirror image",910932,904538,0.99298081525295,,0.229967212022666
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"vertical mirror image; 90 degrees rotation",646416,645639,0.998797987673572,,0.261162368445454
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"vertical mirror image; 180 degrees rotation",910932,907094,0.995786732708918,,0.214995475070352
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"vertical mirror image; 270 degrees rotation",646416,639738,0.98966919135665,,0.177532741400166
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5",227934,227927,0.999969289355691,,0.197421172737082
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5; 90 degrees rotation",227934,227932,0.999991225530197,,0.253094116885048
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5; 180 degrees rotation",227934,227934,1,,0.274342965448401
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5; 270 degrees rotation",227934,227932,0.999991225530197,,0.229171697503209
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5; horizontal mirror image",227934,227934,1,,0.247670358360217
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5 horizontal mirror image; 90 degrees rotation",227934,227927,0.999969289355691,,0.232348899883632
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5 horizontal mirror image; 180 degrees rotation",227934,227928,0.999973676590592,,0.228633047206956
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5 horizontal mirror image; 270 degrees rotation",227934,227933,0.999995612765099,,0.271858599644883
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5; vertical mirror image",227934,227928,0.999973676590592,,0.228633047206956
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5; vertical mirror image; 90 degrees rotation",227934,227933,0.999995612765099,,0.271858599644883
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5; vertical mirror image; 180 degrees rotation",227934,227934,1,,0.247670358360217
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,1,"resize 0.5; vertical mirror image; 270 degrees rotation",227934,227927,0.999969289355691,,0.232348899883632
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"without modification",910932,909207,0.998106335050256,160.572019608429,0.156386342788355
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"90 degrees rotation",646416,646007,0.999367280512859,,0.183198145466546
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"180 degrees rotation",910932,910345,0.999355605028696,,0.223698603916405
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"270 degrees rotation",646416,646069,0.999463193980347,,0.237027912667718
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"horizontal mirror image",910932,909900,0.998867094360501,,0.154167238273633
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"horizontal mirror image; 90 degrees rotation",646416,646027,0.999398220341081,,0.184168251404383
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"horizontal mirror image; 180 degrees rotation",910932,910410,0.999426960519556,,0.223162505812482
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"horizontal mirror image; 270 degrees rotation",646416,645882,0.999173906586471,,0.237534360940589
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"vertical mirror image",910932,910410,0.999426960519556,,0.223162505812482
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"vertical mirror image; 90 degrees rotation",646416,645882,0.999173906586471,,0.237534360940589
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"vertical mirror image; 180 degrees rotation",910932,909900,0.998867094360501,,0.154167238273633
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"vertical mirror image; 270 degrees rotation",646416,646027,0.999398220341081,,0.184168251404383
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5",227934,227934,1,,0.204671315706266
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5; 90 degrees rotation",227934,227934,1,,0.226523583183544
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5; 180 degrees rotation",227934,227934,1,,0.239493436695227
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5; 270 degrees rotation",227934,227934,1,,0.246058940974524
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5; horizontal mirror image",227934,227934,1,,0.205508053854728
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5 horizontal mirror image; 90 degrees rotation",227934,227934,1,,0.226913923752324
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5 horizontal mirror image; 180 degrees rotation",227934,227934,1,,0.241101316718609
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5 horizontal mirror image; 270 degrees rotation",227934,227934,1,,0.246013371216192
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5; vertical mirror image",227934,227934,1,,0.241101316718609
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5; vertical mirror image; 90 degrees rotation",227934,227934,1,,0.246013371216192
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5; vertical mirror image; 180 degrees rotation",227934,227934,1,,0.205508053854728
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,2,"resize 0.5; vertical mirror image; 270 degrees rotation",227934,227934,1,,0.226913923752324
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"without modification",910932,907520,0.996254385618246,103.704899039226,0.178613560424411
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"90 degrees rotation",646416,646033,0.999407502289547,,0.214046978850787
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"180 degrees rotation",910932,910317,0.999324867278787,,0.213460498463393
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"270 degrees rotation",646416,643305,0.995187309720056,,0.1891480772983
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"horizontal mirror image",910932,910342,0.999352311698348,,0.213733888783736
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"horizontal mirror image; 90 degrees rotation",646416,643551,0.995567869607188,,0.191127104450029
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"horizontal mirror image; 180 degrees rotation",910932,907688,0.996438812117699,,0.177076814208843
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"horizontal mirror image; 270 degrees rotation",646416,645999,0.99935490458157,,0.213969918422603
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"vertical mirror image",910932,907688,0.996438812117699,,0.177076814208843
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"vertical mirror image; 90 degrees rotation",646416,645999,0.99935490458157,,0.213969918422603
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"vertical mirror image; 180 degrees rotation",910932,910342,0.999352311698348,,0.213733888783736
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"vertical mirror image; 270 degrees rotation",646416,643551,0.995567869607188,,0.191127104450029
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5",227934,227933,0.999995612765099,,0.230669213738476
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5; 90 degrees rotation",227934,227933,0.999995612765099,,0.260384743586956
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5; 180 degrees rotation",227934,227934,1,,0.250192850089831
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5; 270 degrees rotation",227934,227934,1,,0.244757790161855
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5; horizontal mirror image",227934,227934,1,,0.250978301696135
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5 horizontal mirror image; 90 degrees rotation",227934,227934,1,,0.24545071484589
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5 horizontal mirror image; 180 degrees rotation",227934,227934,1,,0.230041792417307
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5 horizontal mirror image; 270 degrees rotation",227934,227934,1,,0.259893879526237
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5; vertical mirror image",227934,227934,1,,0.230041792417307
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5; vertical mirror image; 90 degrees rotation",227934,227934,1,,0.259893879526237
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5; vertical mirror image; 180 degrees rotation",227934,227934,1,,0.250978301696135
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,3,"resize 0.5; vertical mirror image; 270 degrees rotation",227934,227934,1,,0.24545071484589
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"without modification",910932,910335,0.999344627260871,151.327395374448,0.188406156963187
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"90 degrees rotation",646416,646059,0.999447724066236,,0.21057079770727
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"180 degrees rotation",910932,910338,0.999347920591219,,0.190866985401086
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"270 degrees rotation",646416,646076,0.999474022920225,,0.206298679932011
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"horizontal mirror image",910932,910336,0.999345725037654,,0.191723383807846
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"horizontal mirror image; 90 degrees rotation",646416,646109,0.999525073636791,,0.20784625389746
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"horizontal mirror image; 180 degrees rotation",910932,910325,0.999333649493047,,0.187781891266697
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"horizontal mirror image; 270 degrees rotation",646416,646072,0.99946783495458,,0.209996328665183
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"vertical mirror image",910932,910325,0.999333649493047,,0.187781891266697
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"vertical mirror image; 90 degrees rotation",646416,646072,0.99946783495458,,0.209996328665183
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"vertical mirror image; 180 degrees rotation",910932,910336,0.999345725037654,,0.191723383807846
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"vertical mirror image; 270 degrees rotation",646416,646109,0.999525073636791,,0.20784625389746
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5",227934,227934,1,,0.227283704460543
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5; 90 degrees rotation",227934,227934,1,,0.247047782057016
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5; 180 degrees rotation",227934,227934,1,,0.230178750856695
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5; 270 degrees rotation",227934,227934,1,,0.244119628148866
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5; horizontal mirror image",227934,227934,1,,0.23124922364894
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",227934,227934,1,,0.245201347122074
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",227934,227934,1,,0.226391513428152
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",227934,227934,1,,0.246093437702715
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5; vertical mirror image",227934,227934,1,,0.226391513428152
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5; vertical mirror image; 90 degrees rotation",227934,227934,1,,0.246093437702715
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5; vertical mirror image; 180 degrees rotation",227934,227934,1,,0.23124922364894
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",1,4,"resize 0.5; vertical mirror image; 270 degrees rotation",227934,227934,1,,0.245201347122074
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"without modification",910932,0,0,0,0
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"90 degrees rotation",646416,645623,0.998773235810995,,0.168580480304792
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"180 degrees rotation",910932,910136,0.999126169681162,,0.175255174169572
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"270 degrees rotation",646416,645392,0.99841588079503,,0.170022048910897
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"horizontal mirror image",910932,904636,0.993088397377631,,0.0651496741637639
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"horizontal mirror image; 90 degrees rotation",646416,644560,0.997128783940992,,0.168587324928754
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"horizontal mirror image; 180 degrees rotation",910932,910092,0.999077867502733,,0.175401614328755
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"horizontal mirror image; 270 degrees rotation",646416,645585,0.998714450137373,,0.170081732356078
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"vertical mirror image",910932,910092,0.999077867502733,,0.175401614328755
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"vertical mirror image; 90 degrees rotation",646416,645585,0.998714450137373,,0.170081732356078
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"vertical mirror image; 180 degrees rotation",910932,904636,0.993088397377631,,0.0651496741637639
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"vertical mirror image; 270 degrees rotation",646416,644560,0.997128783940992,,0.168587324928754
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5",227934,227932,0.999991225530197,,0.127325569552016
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5; 90 degrees rotation",227934,227934,1,,0.180150949238178
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5; 180 degrees rotation",227934,227934,1,,0.211533192120184
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5; 270 degrees rotation",227934,227932,0.999991225530197,,0.181273262282393
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5; horizontal mirror image",227934,227932,0.999991225530197,,0.12727287673783
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5 horizontal mirror image; 90 degrees rotation",227934,227934,1,,0.180149760886608
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5 horizontal mirror image; 180 degrees rotation",227934,227934,1,,0.211515814096966
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5 horizontal mirror image; 270 degrees rotation",227934,227934,1,,0.181279337635855
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5; vertical mirror image",227934,227934,1,,0.211515814096966
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5; vertical mirror image; 90 degrees rotation",227934,227934,1,,0.181279337635855
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5; vertical mirror image; 180 degrees rotation",227934,227932,0.999991225530197,,0.12727287673783
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,2,"resize 0.5; vertical mirror image; 270 degrees rotation",227934,227934,1,,0.180149760886608
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"without modification",910932,910217,0.999215089600541,54.8474731328043,0.16271020007206
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"90 degrees rotation",646416,645737,0.998949592831861,,0.13430528324677
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"180 degrees rotation",910932,910103,0.999089943047341,,0.162251005151074
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"270 degrees rotation",646416,645761,0.998986720625727,,0.0730546784669964
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"horizontal mirror image",910932,910154,0.999145929663246,,0.163109579366534
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"horizontal mirror image; 90 degrees rotation",646416,645750,0.998969703720205,,0.0731072226716548
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"horizontal mirror image; 180 degrees rotation",910932,910202,0.999198622948804,,0.162055536707408
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"horizontal mirror image; 270 degrees rotation",646416,645793,0.999036224350882,,0.13435445426092
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"vertical mirror image",910932,910202,0.999198622948804,,0.162055536707408
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"vertical mirror image; 90 degrees rotation",646416,645793,0.999036224350882,,0.13435445426092
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"vertical mirror image; 180 degrees rotation",910932,910154,0.999145929663246,,0.163109579366534
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"vertical mirror image; 270 degrees rotation",646416,645750,0.998969703720205,,0.0731072226716548
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5",227934,227934,1,,0.198054290019935
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5; 90 degrees rotation",227934,227934,1,,0.179047974616882
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5; 180 degrees rotation",227934,227934,1,,0.19656330610099
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5; 270 degrees rotation",227934,227934,1,,0.124890367180273
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5; horizontal mirror image",227934,227934,1,,0.198403618034292
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5 horizontal mirror image; 90 degrees rotation",227934,227934,1,,0.124955274613311
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5 horizontal mirror image; 180 degrees rotation",227934,227934,1,,0.196326808989645
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5 horizontal mirror image; 270 degrees rotation",227934,227934,1,,0.179014749310209
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5; vertical mirror image",227934,227934,1,,0.196326808989645
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5; vertical mirror image; 90 degrees rotation",227934,227934,1,,0.179014749310209
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5; vertical mirror image; 180 degrees rotation",227934,227934,1,,0.198403618034292
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,3,"resize 0.5; vertical mirror image; 270 degrees rotation",227934,227934,1,,0.124955274613311
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"without modification",910932,910042,0.99902297866361,68.3396799632619,0.132992434604634
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"90 degrees rotation",646416,645800,0.99904705329076,,0.13459551707553
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"180 degrees rotation",910932,910067,0.999050423083172,,0.131974631429848
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"270 degrees rotation",646416,645740,0.998954233806094,,0.130997429330439
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"horizontal mirror image",910932,910071,0.999054814190302,,0.133194635051711
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"horizontal mirror image; 90 degrees rotation",646416,645757,0.998980532660083,,0.131084933683815
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"horizontal mirror image; 180 degrees rotation",910932,909986,0.998961503163793,,0.132060646961021
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"horizontal mirror image; 270 degrees rotation",646416,645765,0.998992908591371,,0.134556970016615
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"vertical mirror image",910932,909986,0.998961503163793,,0.132060646961021
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"vertical mirror image; 90 degrees rotation",646416,645765,0.998992908591371,,0.134556970016615
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"vertical mirror image; 180 degrees rotation",910932,910071,0.999054814190302,,0.133194635051711
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"vertical mirror image; 270 degrees rotation",646416,645757,0.998980532660083,,0.131084933683815
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5",227934,227934,1,,0.174913749103761
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5; 90 degrees rotation",227934,227934,1,,0.152311841545847
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5; 180 degrees rotation",227934,227934,1,,0.173101988793857
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5; 270 degrees rotation",227934,227934,1,,0.14733883760124
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5; horizontal mirror image",227934,227934,1,,0.174982696689166
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",227934,227934,1,,0.147420913076716
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",227934,227934,1,,0.173010759339986
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",227934,227934,1,,0.152205050280131
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5; vertical mirror image",227934,227934,1,,0.173010759339986
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5; vertical mirror image; 90 degrees rotation",227934,227934,1,,0.152205050280131
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5; vertical mirror image; 180 degrees rotation",227934,227934,1,,0.174982696689166
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",2,4,"resize 0.5; vertical mirror image; 270 degrees rotation",227934,227934,1,,0.147420913076716
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"without modification",910932,0,0,0,0
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"90 degrees rotation",646416,645855,0.999132137818371,,0.133764326311423
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"180 degrees rotation",910932,910206,0.999203014055934,,0.151144420748839
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"270 degrees rotation",646416,645481,0.998553563030618,,0.173701746320973
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"horizontal mirror image",910932,909416,0.99833577039779,,0.151109551323058
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"horizontal mirror image; 90 degrees rotation",646416,644414,0.99690292319497,,0.17432952212022
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"horizontal mirror image; 180 degrees rotation",910932,903400,0.99173154527451,,0.062784090721627
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"horizontal mirror image; 270 degrees rotation",646416,645821,0.999079540110393,,0.134124975903492
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"vertical mirror image",910932,903400,0.99173154527451,,0.062784090721627
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"vertical mirror image; 90 degrees rotation",646416,645821,0.999079540110393,,0.134124975903492
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"vertical mirror image; 180 degrees rotation",910932,909416,0.99833577039779,,0.151109551323058
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"vertical mirror image; 270 degrees rotation",646416,644414,0.99690292319497,,0.17432952212022
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5",227934,227926,0.999964902120789,,0.127369744052461
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5; 90 degrees rotation",227934,227934,1,,0.196745439128043
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5; 180 degrees rotation",227934,227934,1,,0.178109007608448
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5; 270 degrees rotation",227934,227934,1,,0.195267470326474
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5; horizontal mirror image",227934,227934,1,,0.178125426071378
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5 horizontal mirror image; 90 degrees rotation",227934,227933,0.999995612765099,,0.196872548376529
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5 horizontal mirror image; 180 degrees rotation",227934,227927,0.999969289355691,,0.12735197343179
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5 horizontal mirror image; 270 degrees rotation",227934,227934,1,,0.195035993308098
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5; vertical mirror image",227934,227927,0.999969289355691,,0.12735197343179
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5; vertical mirror image; 90 degrees rotation",227934,227934,1,,0.195035993308098
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5; vertical mirror image; 180 degrees rotation",227934,227934,1,,0.178125426071378
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,3,"resize 0.5; vertical mirror image; 270 degrees rotation",227934,227933,0.999995612765099,,0.196872548376529
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"without modification",910932,910171,0.999164591868548,29.2495344171977,0.115190163885375
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"90 degrees rotation",646416,645893,0.999190923491993,,0.131835752697099
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"180 degrees rotation",910932,910208,0.999205209609499,,0.1173410827592
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"270 degrees rotation",646416,645930,0.999248162174204,,0.131233170370464
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"horizontal mirror image",910932,910118,0.999106409699077,,0.117311915980969
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"horizontal mirror image; 90 degrees rotation",646416,645918,0.99922959827727,,0.132333277054156
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"horizontal mirror image; 180 degrees rotation",910932,910153,0.999144831886464,,0.115265744072783
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"horizontal mirror image; 270 degrees rotation",646416,645895,0.999194017474815,,0.131135333414539
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"vertical mirror image",910932,910153,0.999144831886464,,0.115265744072783
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"vertical mirror image; 90 degrees rotation",646416,645895,0.999194017474815,,0.131135333414539
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"vertical mirror image; 180 degrees rotation",910932,910118,0.999106409699077,,0.117311915980969
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"vertical mirror image; 270 degrees rotation",646416,645918,0.99922959827727,,0.132333277054156
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5",227934,227934,1,,0.146434741301543
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5; 90 degrees rotation",227934,227934,1,,0.172939060578769
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5; 180 degrees rotation",227934,227934,1,,0.150622102673191
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5; 270 degrees rotation",227934,227934,1,,0.17112015415559
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5; horizontal mirror image",227934,227934,1,,0.150610986615039
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",227934,227934,1,,0.172924020898959
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",227934,227934,1,,0.146396690195277
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",227934,227934,1,,0.171195854107076
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5; vertical mirror image",227934,227934,1,,0.146396690195277
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5; vertical mirror image; 90 degrees rotation",227934,227934,1,,0.171195854107076
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5; vertical mirror image; 180 degrees rotation",227934,227934,1,,0.150610986615039
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",3,4,"resize 0.5; vertical mirror image; 270 degrees rotation",227934,227934,1,,0.172924020898959
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"without modification",910932,0,0,0,0
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"90 degrees rotation",646416,645704,0.998898542115294,,0.0634277948993337
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"180 degrees rotation",910932,909830,0.998790249985729,,0.0638077485852934
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"270 degrees rotation",646416,645690,0.998876884235539,,0.0632822830793239
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"horizontal mirror image",910932,909032,0.997914224113326,,0.0637992297116365
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"horizontal mirror image; 90 degrees rotation",646416,644820,0.997531001707879,,0.0634823201652283
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"horizontal mirror image; 180 degrees rotation",910932,909802,0.99875951223582,,0.0631313140176381
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"horizontal mirror image; 270 degrees rotation",646416,645692,0.998879978218361,,0.0633968362059515
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"vertical mirror image",910932,909802,0.99875951223582,,0.0631313140176381
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"vertical mirror image; 90 degrees rotation",646416,645692,0.998879978218361,,0.0633968362059515
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"vertical mirror image; 180 degrees rotation",910932,909032,0.997914224113326,,0.0637992297116365
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"vertical mirror image; 270 degrees rotation",646416,644820,0.997531001707879,,0.0634823201652283
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5",227934,227934,1,,0.0537772813818529
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5; 90 degrees rotation",227934,227934,1,,0.0536678759191584
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5; 180 degrees rotation",227934,227934,1,,0.0542463110454481
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5; 270 degrees rotation",227934,227934,1,,0.0540664647395092
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5; horizontal mirror image",227934,227934,1,,0.0539634742306119
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",227934,227934,1,,0.0540418741110426
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",227934,227934,1,,0.0540961340254782
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",227934,227934,1,,0.0536315157953715
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5; vertical mirror image",227934,227934,1,,0.0540961340254782
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5; vertical mirror image; 90 degrees rotation",227934,227934,1,,0.0536315157953715
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5; vertical mirror image; 180 degrees rotation",227934,227934,1,,0.0539634742306119
+"Persian_calligraphy_framed_by_an_ornamental_border_of_flowers__birds__and_deer__.jpg",4,4,"resize 0.5; vertical mirror image; 270 degrees rotation",227934,227934,1,,0.0540418741110426
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"without modification",995907,0,0,0,0
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"90 degrees rotation",772641,769667,0.996150864372975,,0.227650029717572
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"180 degrees rotation",995907,994842,0.998930623040103,,0.238202905396716
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"270 degrees rotation",772641,769264,0.995629276727484,,0.179417671329366
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"horizontal mirror image",995907,985642,0.989692812682309,,0.145506457924074
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"horizontal mirror image; 90 degrees rotation",772641,765854,0.991215842804097,,0.195880677688015
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"horizontal mirror image; 180 degrees rotation",995907,983640,0.987682584819667,,0.224515717960105
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"horizontal mirror image; 270 degrees rotation",772641,771411,0.998408057558426,,0.212919517524615
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"vertical mirror image",995907,983640,0.987682584819667,,0.224515717960105
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"vertical mirror image; 90 degrees rotation",772641,771411,0.998408057558426,,0.212919517524615
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"vertical mirror image; 180 degrees rotation",995907,985642,0.989692812682309,,0.145506457924074
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"vertical mirror image; 270 degrees rotation",772641,765854,0.991215842804097,,0.195880677688015
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5",248474,248465,0.999963778906445,,0.259197063097307
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5; 90 degrees rotation",248474,248474,1,,0.286470593267836
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5; 180 degrees rotation",248474,248474,1,,0.269856503000857
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5; 270 degrees rotation",248474,248473,0.999995975434049,,0.278763722704577
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5; horizontal mirror image",248474,248473,0.999995975434049,,0.252109137932299
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5 horizontal mirror image; 90 degrees rotation",248474,248471,0.999987926302148,,0.284819916406893
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5 horizontal mirror image; 180 degrees rotation",248474,248472,0.999991950868099,,0.275240507524412
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5 horizontal mirror image; 270 degrees rotation",248474,248472,0.999991950868099,,0.279199926546594
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5; vertical mirror image",248474,248472,0.999991950868099,,0.275240507524412
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5; vertical mirror image; 90 degrees rotation",248474,248472,0.999991950868099,,0.279199926546594
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5; vertical mirror image; 180 degrees rotation",248474,248473,0.999995975434049,,0.252109137932299
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,1,"resize 0.5; vertical mirror image; 270 degrees rotation",248474,248471,0.999987926302148,,0.284819916406893
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"without modification",995907,988104,0.99216493106284,23.25556266433,0.138262094664641
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"90 degrees rotation",772641,770530,0.997267812606372,,0.214643915699527
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"180 degrees rotation",995907,995575,0.999666635539262,,0.238703415476193
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"270 degrees rotation",772641,772622,0.999975409019195,,0.202842014580328
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"horizontal mirror image",995907,987116,0.991172870559199,,0.12950197447747
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"horizontal mirror image; 90 degrees rotation",772641,770586,0.997340291286639,,0.234406941659137
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"horizontal mirror image; 180 degrees rotation",995907,995894,0.99998694657232,,0.243291006666068
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"horizontal mirror image; 270 degrees rotation",772641,772613,0.999963760659867,,0.177078226781963
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"vertical mirror image",995907,995894,0.99998694657232,,0.243291006666068
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"vertical mirror image; 90 degrees rotation",772641,772613,0.999963760659867,,0.177078226781963
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"vertical mirror image; 180 degrees rotation",995907,987116,0.991172870559199,,0.12950197447747
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"vertical mirror image; 270 degrees rotation",772641,770586,0.997340291286639,,0.234406941659137
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5",248474,248471,0.999987926302148,,0.231861715982884
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5; 90 degrees rotation",248474,248473,0.999995975434049,,0.243556371875743
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5; 180 degrees rotation",248474,248473,0.999995975434049,,0.255408250775416
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5; 270 degrees rotation",248474,248473,0.999995975434049,,0.253160510427379
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5; horizontal mirror image",248474,248472,0.999991950868099,,0.225426295236166
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5 horizontal mirror image; 90 degrees rotation",248474,248471,0.999987926302148,,0.259156669652603
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5 horizontal mirror image; 180 degrees rotation",248474,248474,1,,0.251456257989537
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5 horizontal mirror image; 270 degrees rotation",248474,248471,0.999987926302148,,0.243384138854023
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5; vertical mirror image",248474,248474,1,,0.251456257989537
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5; vertical mirror image; 90 degrees rotation",248474,248471,0.999987926302148,,0.243384138854023
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5; vertical mirror image; 180 degrees rotation",248474,248472,0.999991950868099,,0.225426295236166
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,2,"resize 0.5; vertical mirror image; 270 degrees rotation",248474,248471,0.999987926302148,,0.259156669652603
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"without modification",995907,994316,0.998402461273994,56.9756784703854,0.248028434545515
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"90 degrees rotation",772641,772355,0.99962984102578,,0.236394816285304
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"180 degrees rotation",995907,995390,0.999480875222285,,0.236261745622232
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"270 degrees rotation",772641,771600,0.998652673104327,,0.252834161839389
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"horizontal mirror image",995907,995480,0.99957124510622,,0.252051378303115
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"horizontal mirror image; 90 degrees rotation",772641,771481,0.99849865590876,,0.248377644142472
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"horizontal mirror image; 180 degrees rotation",995907,994300,0.99838639551685,,0.230268250076396
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"horizontal mirror image; 270 degrees rotation",772641,772432,0.999729499211147,,0.229613652985423
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"vertical mirror image",995907,994300,0.99838639551685,,0.230268250076396
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"vertical mirror image; 90 degrees rotation",772641,772432,0.999729499211147,,0.229613652985423
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"vertical mirror image; 180 degrees rotation",995907,995480,0.99957124510622,,0.252051378303115
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"vertical mirror image; 270 degrees rotation",772641,771481,0.99849865590876,,0.248377644142472
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5",248474,248474,1,,0.245127243446994
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5; 90 degrees rotation",248474,248473,0.999995975434049,,0.246617975071436
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5; 180 degrees rotation",248474,248474,1,,0.253977841203245
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5; 270 degrees rotation",248474,248474,1,,0.262140096314835
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5; horizontal mirror image",248474,248473,0.999995975434049,,0.250559748068949
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5 horizontal mirror image; 90 degrees rotation",248474,248474,1,,0.261791287121303
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5 horizontal mirror image; 180 degrees rotation",248474,248474,1,,0.256978469673078
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5 horizontal mirror image; 270 degrees rotation",248474,248474,1,,0.262753116499166
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5; vertical mirror image",248474,248474,1,,0.256978469673078
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5; vertical mirror image; 90 degrees rotation",248474,248474,1,,0.262753116499166
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5; vertical mirror image; 180 degrees rotation",248474,248473,0.999995975434049,,0.250559748068949
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,3,"resize 0.5; vertical mirror image; 270 degrees rotation",248474,248474,1,,0.261791287121303
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"without modification",995907,995807,0.99989958901785,86.7529805811451,0.27558566875072
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"90 degrees rotation",772641,772528,0.999853748377319,,0.248746453418004
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"180 degrees rotation",995907,995844,0.999936741081246,,0.257484638989508
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"270 degrees rotation",772641,772571,0.999909401649667,,0.293607169229536
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"horizontal mirror image",995907,995828,0.999920675324102,,0.263895795625636
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"horizontal mirror image; 90 degrees rotation",772641,772526,0.999851159853024,,0.291406630273166
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"horizontal mirror image; 180 degrees rotation",995907,995861,0.999953810948211,,0.263961974291128
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"horizontal mirror image; 270 degrees rotation",772641,772527,0.999852454115171,,0.251627137643768
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"vertical mirror image",995907,995861,0.999953810948211,,0.263961974291128
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"vertical mirror image; 90 degrees rotation",772641,772527,0.999852454115171,,0.251627137643768
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"vertical mirror image; 180 degrees rotation",995907,995828,0.999920675324102,,0.263895795625636
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"vertical mirror image; 270 degrees rotation",772641,772526,0.999851159853024,,0.291406630273166
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5",248474,248474,1,,0.263118405799628
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5; 90 degrees rotation",248474,248474,1,,0.240114587737645
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5; 180 degrees rotation",248474,248474,1,,0.238234421434435
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5; 270 degrees rotation",248474,248474,1,,0.281107789398468
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5; horizontal mirror image",248474,248474,1,,0.250711652111552
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",248474,248474,1,,0.293517791030389
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",248474,248474,1,,0.251307757969296
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",248474,248474,1,,0.237276897017067
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5; vertical mirror image",248474,248474,1,,0.251307757969296
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5; vertical mirror image; 90 degrees rotation",248474,248474,1,,0.237276897017067
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5; vertical mirror image; 180 degrees rotation",248474,248474,1,,0.250711652111552
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",1,4,"resize 0.5; vertical mirror image; 270 degrees rotation",248474,248474,1,,0.293517791030389
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"without modification",995907,0,0,0,0
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"90 degrees rotation",772641,771645,0.99871091490097,,0.219174658536119
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"180 degrees rotation",995907,994956,0.999045091559754,,0.227996414533547
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"270 degrees rotation",772641,771560,0.998600902618422,,0.184385101593285
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"horizontal mirror image",995907,982046,0.986082033764197,,0.0785947659364944
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"horizontal mirror image; 90 degrees rotation",772641,768580,0.994744001418511,,0.231051111021213
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"horizontal mirror image; 180 degrees rotation",995907,993504,0.997587124098937,,0.223216438334126
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"horizontal mirror image; 270 degrees rotation",772641,771591,0.998641024744998,,0.164306047055121
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"vertical mirror image",995907,993504,0.997587124098937,,0.223216438334126
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"vertical mirror image; 90 degrees rotation",772641,771591,0.998641024744998,,0.164306047055121
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"vertical mirror image; 180 degrees rotation",995907,982046,0.986082033764197,,0.0785947659364944
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"vertical mirror image; 270 degrees rotation",772641,768580,0.994744001418511,,0.231051111021213
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5",248474,248467,0.999971828038346,,0.23255653818563
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5; 90 degrees rotation",248474,248473,0.999995975434049,,0.251759933582139
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5; 180 degrees rotation",248474,248474,1,,0.252404430166247
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5; 270 degrees rotation",248474,248473,0.999995975434049,,0.25412433611421
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5; horizontal mirror image",248474,248465,0.999963778906445,,0.235718311667566
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5 horizontal mirror image; 90 degrees rotation",248474,248471,0.999987926302148,,0.259861421501763
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5 horizontal mirror image; 180 degrees rotation",248474,248474,1,,0.250347710000757
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5 horizontal mirror image; 270 degrees rotation",248474,248471,0.999987926302148,,0.24525581822384
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5; vertical mirror image",248474,248474,1,,0.250347710000757
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5; vertical mirror image; 90 degrees rotation",248474,248471,0.999987926302148,,0.24525581822384
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5; vertical mirror image; 180 degrees rotation",248474,248465,0.999963778906445,,0.235718311667566
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,2,"resize 0.5; vertical mirror image; 270 degrees rotation",248474,248471,0.999987926302148,,0.259861421501763
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"without modification",995907,995822,0.999914650665173,99.1666395496878,0.242119942246466
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"90 degrees rotation",772641,772621,0.999974114757048,,0.227964731948138
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"180 degrees rotation",995907,995873,0.999965860266069,,0.232480592571471
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"270 degrees rotation",772641,772206,0.999436995965785,,0.247645117426483
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"horizontal mirror image",995907,995809,0.999901597237493,,0.244715787619712
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"horizontal mirror image; 90 degrees rotation",772641,772203,0.999433113179342,,0.240698266550274
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"horizontal mirror image; 180 degrees rotation",995907,995877,0.999969876705355,,0.226075519831791
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"horizontal mirror image; 270 degrees rotation",772641,772633,0.999989645902819,,0.217607624773277
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"vertical mirror image",995907,995877,0.999969876705355,,0.226075519831791
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"vertical mirror image; 90 degrees rotation",772641,772633,0.999989645902819,,0.217607624773277
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"vertical mirror image; 180 degrees rotation",995907,995809,0.999901597237493,,0.244715787619712
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"vertical mirror image; 270 degrees rotation",772641,772203,0.999433113179342,,0.240698266550274
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5",248474,248474,1,,0.243267823760823
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5; 90 degrees rotation",248474,248474,1,,0.247323526943924
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5; 180 degrees rotation",248474,248474,1,,0.258966187518988
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5; 270 degrees rotation",248474,248474,1,,0.262394034984879
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5; horizontal mirror image",248474,248474,1,,0.246226127721325
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5 horizontal mirror image; 90 degrees rotation",248474,248474,1,,0.262241715076072
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5 horizontal mirror image; 180 degrees rotation",248474,248474,1,,0.257612293340897
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5 horizontal mirror image; 270 degrees rotation",248474,248474,1,,0.247161241014645
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5; vertical mirror image",248474,248474,1,,0.257612293340897
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5; vertical mirror image; 90 degrees rotation",248474,248474,1,,0.247161241014645
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5; vertical mirror image; 180 degrees rotation",248474,248474,1,,0.246226127721325
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,3,"resize 0.5; vertical mirror image; 270 degrees rotation",248474,248474,1,,0.262241715076072
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"without modification",995907,995846,0.999938749300889,99.7617630798993,0.242666529421377
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"90 degrees rotation",772641,772636,0.999993528689262,,0.236034177669729
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"180 degrees rotation",995907,995875,0.999967868485712,,0.245270920426106
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"270 degrees rotation",772641,772606,0.999954700824833,,0.264205321569692
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"horizontal mirror image",995907,995864,0.999956823277676,,0.257428056947037
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"horizontal mirror image; 90 degrees rotation",772641,772594,0.999939169679062,,0.260734575965582
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"horizontal mirror image; 180 degrees rotation",995907,995854,0.999946782179461,,0.227666574514473
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"horizontal mirror image; 270 degrees rotation",772641,772491,0.999805860677857,,0.228397649229247
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"vertical mirror image",995907,995854,0.999946782179461,,0.227666574514473
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"vertical mirror image; 90 degrees rotation",772641,772491,0.999805860677857,,0.228397649229247
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"vertical mirror image; 180 degrees rotation",995907,995864,0.999956823277676,,0.257428056947037
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"vertical mirror image; 270 degrees rotation",772641,772594,0.999939169679062,,0.260734575965582
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5",248474,248474,1,,0.252696585164569
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5; 90 degrees rotation",248474,248474,1,,0.24773892429535
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5; 180 degrees rotation",248474,248474,1,,0.240332086816054
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5; 270 degrees rotation",248474,248474,1,,0.283865134179149
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5; horizontal mirror image",248474,248474,1,,0.261265756221869
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",248474,248474,1,,0.285049215710159
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",248474,248474,1,,0.235918511662005
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",248474,248474,1,,0.244988903182058
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5; vertical mirror image",248474,248474,1,,0.235918511662005
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5; vertical mirror image; 90 degrees rotation",248474,248474,1,,0.244988903182058
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5; vertical mirror image; 180 degrees rotation",248474,248474,1,,0.261265756221869
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",2,4,"resize 0.5; vertical mirror image; 270 degrees rotation",248474,248474,1,,0.285049215710159
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"without modification",995907,0,0,0,0
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"90 degrees rotation",772641,771964,0.999123784526061,,0.245886755280947
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"180 degrees rotation",995907,995312,0.999402554656208,,0.244905101945357
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"270 degrees rotation",772641,771957,0.999114724691027,,0.237329209736409
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"horizontal mirror image",995907,993626,0.99770962549716,,0.243546172015202
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"horizontal mirror image; 90 degrees rotation",772641,770348,0.997032256895505,,0.237063290276778
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"horizontal mirror image; 180 degrees rotation",995907,985116,0.9891646509162,,0.217780500298784
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"horizontal mirror image; 270 degrees rotation",772641,771855,0.99898270995197,,0.244093135367224
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"vertical mirror image",995907,985116,0.9891646509162,,0.217780500298784
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"vertical mirror image; 90 degrees rotation",772641,771855,0.99898270995197,,0.244093135367224
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"vertical mirror image; 180 degrees rotation",995907,993626,0.99770962549716,,0.243546172015202
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"vertical mirror image; 270 degrees rotation",772641,770348,0.997032256895505,,0.237063290276778
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5",248474,248471,0.999987926302148,,0.237870107577824
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5; 90 degrees rotation",248474,248473,0.999995975434049,,0.247175761029278
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5; 180 degrees rotation",248474,248474,1,,0.248031221188964
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5; 270 degrees rotation",248474,248474,1,,0.245889730357654
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5; horizontal mirror image",248474,248474,1,,0.248503505272996
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5 horizontal mirror image; 90 degrees rotation",248474,248474,1,,0.245288007197106
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5 horizontal mirror image; 180 degrees rotation",248474,248466,0.999967803472396,,0.23691552170783
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5 horizontal mirror image; 270 degrees rotation",248474,248474,1,,0.238726397989216
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5; vertical mirror image",248474,248466,0.999967803472396,,0.23691552170783
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5; vertical mirror image; 90 degrees rotation",248474,248474,1,,0.238726397989216
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5; vertical mirror image; 180 degrees rotation",248474,248474,1,,0.248503505272996
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,3,"resize 0.5; vertical mirror image; 270 degrees rotation",248474,248474,1,,0.245288007197106
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"without modification",995907,995651,0.999742947885696,64.6921040904236,0.239946358725465
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"90 degrees rotation",772641,772431,0.999728204949,,0.249998032167259
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"180 degrees rotation",995907,995532,0.999623458816938,,0.25685253808108
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"270 degrees rotation",772641,772264,0.999512063170347,,0.25283154511182
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"horizontal mirror image",995907,995478,0.999569236886577,,0.258056286350615
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"horizontal mirror image; 90 degrees rotation",772641,772323,0.999588424637057,,0.255695503753129
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"horizontal mirror image; 180 degrees rotation",995907,995745,0.999837334208917,,0.248076022833713
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"horizontal mirror image; 270 degrees rotation",772641,772455,0.999759267240543,,0.243032350538432
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"vertical mirror image",995907,995745,0.999837334208917,,0.248076022833713
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"vertical mirror image; 90 degrees rotation",772641,772455,0.999759267240543,,0.243032350538432
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"vertical mirror image; 180 degrees rotation",995907,995478,0.999569236886577,,0.258056286350615
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"vertical mirror image; 270 degrees rotation",772641,772323,0.999588424637057,,0.255695503753129
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5",248474,248474,1,,0.263978338366838
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5; 90 degrees rotation",248474,248474,1,,0.258003936045253
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5; 180 degrees rotation",248474,248474,1,,0.245757029060024
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5; 270 degrees rotation",248474,248473,0.999995975434049,,0.263508653022018
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5; horizontal mirror image",248474,248473,0.999995975434049,,0.243360204780872
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",248474,248474,1,,0.271555822240941
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",248474,248474,1,,0.259512333816094
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",248474,248474,1,,0.249031396423106
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5; vertical mirror image",248474,248474,1,,0.259512333816094
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5; vertical mirror image; 90 degrees rotation",248474,248474,1,,0.249031396423106
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5; vertical mirror image; 180 degrees rotation",248474,248473,0.999995975434049,,0.243360204780872
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",3,4,"resize 0.5; vertical mirror image; 270 degrees rotation",248474,248474,1,,0.271555822240941
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"without modification",995907,0,0,0,0
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"90 degrees rotation",772641,772291,0.999547008248333,,0.267149203887174
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"180 degrees rotation",995907,995160,0.99924992996334,,0.273857506156509
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"270 degrees rotation",772641,772295,0.999552185296923,,0.259086130641677
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"horizontal mirror image",995907,991658,0.995733537368449,,0.261176507257585
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"horizontal mirror image; 90 degrees rotation",772641,770990,0.997863173194278,,0.25778313109579
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"horizontal mirror image; 180 degrees rotation",995907,992826,0.99690633763996,,0.237114989426105
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"horizontal mirror image; 270 degrees rotation",772641,772286,0.999540536937595,,0.283093450121944
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"vertical mirror image",995907,992826,0.99690633763996,,0.237114989426105
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"vertical mirror image; 90 degrees rotation",772641,772286,0.999540536937595,,0.283093450121944
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"vertical mirror image; 180 degrees rotation",995907,991658,0.995733537368449,,0.261176507257585
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"vertical mirror image; 270 degrees rotation",772641,770990,0.997863173194278,,0.25778313109579
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5",248474,248474,1,,0.237167535294989
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5; 90 degrees rotation",248474,248474,1,,0.257123376599133
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5; 180 degrees rotation",248474,248474,1,,0.275545379104527
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5; 270 degrees rotation",248474,248474,1,,0.272961045643236
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5; horizontal mirror image",248474,248474,1,,0.272827790856822
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5 horizontal mirror image; 90 degrees rotation",248474,248474,1,,0.268842570667791
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5 horizontal mirror image; 180 degrees rotation",248474,248474,1,,0.249397314515863
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5 horizontal mirror image; 270 degrees rotation",248474,248474,1,,0.265884613183504
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5; vertical mirror image",248474,248474,1,,0.249397314515863
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5; vertical mirror image; 90 degrees rotation",248474,248474,1,,0.265884613183504
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5; vertical mirror image; 180 degrees rotation",248474,248474,1,,0.272827790856822
+"Tulipa_Clusiana_with_Campanula__Porcupine__Spider__and_Squirrel_Border__folio_4_.jpg",4,4,"resize 0.5; vertical mirror image; 270 degrees rotation",248474,248474,1,,0.268842570667791
